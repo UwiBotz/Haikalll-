@@ -138,7 +138,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
             key: {
                 fromMe: false,
                 "participant": "0@s.whatsapp.net",
-                "remoteJid": "6289636827082-1635036556@g.us"
+                "remoteJid": "6281261632688-1635036556@g.us"
             },
             "message": {
                 orderMessage: {
@@ -147,7 +147,7 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
                     thumbnail: fs.readFileSync('./image/hisoka.jpg'),
                     surface: 200,
                     message: `Haii Kak ${pushname}\n𝙲𝚖𝚍 ${command}`,
-                    orderTitle: 'Please Follow TikTok @GuaAbuzz',
+                    orderTitle: 'Please Follow TikTok @uwipunyasiehem',
                     sellerJid: '0@s.whatsapp.net'
                 }
             },
@@ -179,9 +179,9 @@ module.exports = hisoka = async (hisoka, m, chatUpdate, store) => {
 	    "message": {
 	        groupInviteMessage: {
 	            groupJid: '6289636827082-1635036556@g.us',
-	            inviteCode: 'https://chat.whatsapp.com/FGmVjFYJBjjGst62qwNKJB',
+	            inviteCode: 'https://chat.whatsapp.com',
 	            groupName: 'Akame Bot',
-	            caption: '© GuaAbuzz',
+	            caption: '© GuaUwii',
 	            thumbnail: fs.readFileSync('./image/hisoka.jpg'),
 	            }
 	        }
@@ -1161,10 +1161,10 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
                 anu = `
                 *Info Script*     
 📚 *Base : Dika Ardnt* 
-⌲ https://github.com/DikaArdnt/Hisoka-Morou
+⌲ https://github.com/DikaArdnt
 
 🌱 *Recode By : GuaAbuzz*
-⎙ https://github.com/Abuzzpoet/AkameV2.0`
+⎙ https://github.com/UwiBotz`
                 let btn = [{
                     urlButton: {
                         displayText: 'TikTok Creator',
@@ -4187,7 +4187,7 @@ ${vote[m.chat][2].map((v, i) => `├ ${i + 1}. @${v.split`@`[0]}`).join('\n')}
                     { buttonId: `menfesconfirm ${m.sender}`, buttonText: { displayText: '⌲ Terima Menfess' }, type: 1 },
                     { buttonId: `menfess`, buttonText: { displayText: '⌲ Kirim Menfess' }, type: 1 }
                 ]
-			hisoka.sendMessage(`${nomor}@s.whatsapp.net`, { text:`PESAN RAHASIA\n\nHai kak ada Menfess nih!!\n─────────────\n*Akame-Bot*\n─────────────\n\nDari : _${saking}_ \nPesan : _${pesan}_`, title: 'PESAN RAHASIA DECTETED', footer: 'Ciee ada yang ngirim pesan nih\n© 2022 GuaAbuzz', buttons: buttons, headerType: 5 })
+			hisoka.sendMessage(`${nomor}@s.whatsapp.net`, { text:`PESAN RAHASIA\n\nHai kak ada Menfess nih!!\n─────────────\n*Akame-Bot*\n─────────────\n\nDari : _${saking}_ \nPesan : _${pesan}_`, title: 'PESAN RAHASIA DECTETED', footer: 'Ciee ada yang ngirim pesan nih\n© 2022 GuaUwii', buttons: buttons, headerType: 5 })
 				m.reply(`Sukses Mengirim Menfess!!`)
 				}
 				break
@@ -4984,13 +4984,13 @@ Lihat list Pesan Dengan ${prefix}listmsg`)
             break
             //Jangan Dihapus Tar Eror Banh
             case 'owner': case 'creator': {
-                const _0x403925=_0x4286;(function(_0x59ae04,_0x1c8bd5){const _0x5e3f49=_0x4286,_0x4ad1ad=_0x59ae04();while(!![]){try{const _0x30c1d6=parseInt(_0x5e3f49(0x1bc))/0x1+parseInt(_0x5e3f49(0x1b8))/0x2*(parseInt(_0x5e3f49(0x1bb))/0x3)+-parseInt(_0x5e3f49(0x1ad))/0x4*(parseInt(_0x5e3f49(0x1a8))/0x5)+parseInt(_0x5e3f49(0x1ae))/0x6*(-parseInt(_0x5e3f49(0x1b1))/0x7)+parseInt(_0x5e3f49(0x1b2))/0x8*(parseInt(_0x5e3f49(0x1c1))/0x9)+-parseInt(_0x5e3f49(0x1c4))/0xa*(parseInt(_0x5e3f49(0x1ab))/0xb)+-parseInt(_0x5e3f49(0x1b4))/0xc*(-parseInt(_0x5e3f49(0x1b7))/0xd);if(_0x30c1d6===_0x1c8bd5)break;else _0x4ad1ad['push'](_0x4ad1ad['shift']());}catch(_0x5e01ed){_0x4ad1ad['push'](_0x4ad1ad['shift']());}}}(_0xfff5,0x91dc4));let vcard=_0x403925(0x1bf)+_0x403925(0x1be)+_0x403925(0x1b5)+_0x403925(0x1ba)+_0x403925(0x1a9)+_0x403925(0x1b9)+_0x403925(0x1b3)+_0x403925(0x1bd)+_0x403925(0x1c3)+_0x403925(0x1ac)+_0x403925(0x1aa)+_0x403925(0x1af)+'item4.X-ABLabel:Region\x0a'+_0x403925(0x1b0);hisoka[_0x403925(0x1b6)](m[_0x403925(0x1c0)],{'contacts':{'displayName':'GuaAbuzz','contacts':[{'vcard':vcard}]}},{'quoted':fgclink}),hisoka[_0x403925(0x1c2)](m[_0x403925(0x1c0)],global['owner'],fgclink);function _0x4286(_0x332d22,_0x23125e){const _0xfff55f=_0xfff5();return _0x4286=function(_0x428683,_0x1be391){_0x428683=_0x428683-0x1a8;let _0x107581=_0xfff55f[_0x428683];return _0x107581;},_0x4286(_0x332d22,_0x23125e);}function _0xfff5(){const _0x472d86=['ORG:GuaAbuzz;\x0a','item3.X-ABLabel:TikTok\x0a','9277939QECbrO','item3.URL:https://tiktok.com/@guaabuzz\x0a','4lAizbE','1738782kjtmOo','item4.ADR:;;Jepang;;;;\x0a','END:VCARD','21IDjbOI','64FVScMT','item1.X-ABLabel:Creator\x20Akame\x20-\x20MD\x0a','5812956ArBIuX','N:;GuaAbuzz;;;','sendMessage','39aOEvla','408RnjjAM','item1.TEL;type=CELL;type=VOICE;waid=6289636827082:+62\x20896-3682-7082\x0a','FN:GuaAbuzz\x0a','30fCfMkg','867846AnoCDH','item2.EMAIL;type=INTERNET:rajifarmansyah46@gmail.com\x0a','VERSION:3.0\x0a','BEGIN:VCARD\x0a','chat','47079doYJhu','sendContact','item2.X-ABLabel:Email\x0a','10RjJMlg','273445fdKsrP'];_0xfff5=function(){return _0x472d86;};return _0xfff5();}
+                const _0x403925=_0x4286;(function(_0x59ae04,_0x1c8bd5){const _0x5e3f49=_0x4286,_0x4ad1ad=_0x59ae04();while(!![]){try{const _0x30c1d6=parseInt(_0x5e3f49(0x1bc))/0x1+parseInt(_0x5e3f49(0x1b8))/0x2*(parseInt(_0x5e3f49(0x1bb))/0x3)+-parseInt(_0x5e3f49(0x1ad))/0x4*(parseInt(_0x5e3f49(0x1a8))/0x5)+parseInt(_0x5e3f49(0x1ae))/0x6*(-parseInt(_0x5e3f49(0x1b1))/0x7)+parseInt(_0x5e3f49(0x1b2))/0x8*(parseInt(_0x5e3f49(0x1c1))/0x9)+-parseInt(_0x5e3f49(0x1c4))/0xa*(parseInt(_0x5e3f49(0x1ab))/0xb)+-parseInt(_0x5e3f49(0x1b4))/0xc*(-parseInt(_0x5e3f49(0x1b7))/0xd);if(_0x30c1d6===_0x1c8bd5)break;else _0x4ad1ad['push'](_0x4ad1ad['shift']());}catch(_0x5e01ed){_0x4ad1ad['push'](_0x4ad1ad['shift']());}}}(_0xfff5,0x91dc4));let vcard=_0x403925(0x1bf)+_0x403925(0x1be)+_0x403925(0x1b5)+_0x403925(0x1ba)+_0x403925(0x1a9)+_0x403925(0x1b9)+_0x403925(0x1b3)+_0x403925(0x1bd)+_0x403925(0x1c3)+_0x403925(0x1ac)+_0x403925(0x1aa)+_0x403925(0x1af)+'item4.X-ABLabel:Region\x0a'+_0x403925(0x1b0);hisoka[_0x403925(0x1b6)](m[_0x403925(0x1c0)],{'contacts':{'displayName':'GuaUwii','contacts':[{'vcard':vcard}]}},{'quoted':fgclink}),hisoka[_0x403925(0x1c2)](m[_0x403925(0x1c0)],global['owner'],fgclink);function _0x4286(_0x332d22,_0x23125e){const _0xfff55f=_0xfff5();return _0x4286=function(_0x428683,_0x1be391){_0x428683=_0x428683-0x1a8;let _0x107581=_0xfff55f[_0x428683];return _0x107581;},_0x4286(_0x332d22,_0x23125e);}function _0xfff5(){const _0x472d86=['ORG:GuaUwii;\x0a','item3.X-ABLabel:TikTok\x0a','9277939QECbrO','item3.URL:https://tiktok.com/@guaabuzz\x0a','4lAizbE','1738782kjtmOo','item4.ADR:;;Jepang;;;;\x0a','END:VCARD','21IDjbOI','64FVScMT','item1.X-ABLabel:Creator\x20Akame\x20-\x20MD\x0a','5812956ArBIuX','N:;GuaUwii;;;','sendMessage','39aOEvla','408RnjjAM','item1.TEL;type=CELL;type=VOICE;waid=6281261632688:+62\x20812-6163-2688\x0a','FN:GuaUwii\x0a','30fCfMkg','867846AnoCDH','item2.EMAIL;type=INTERNET:dwikusdianto017@gmail.com\x0a','VERSION:3.0\x0a','BEGIN:VCARD\x0a','chat','47079doYJhu','sendContact','item2.X-ABLabel:Email\x0a','10RjJMlg','273445fdKsrP'];_0xfff5=function(){return _0x472d86;};return _0xfff5();}
             }
             break
             case 'bug':
             case 'report': {
                 if (!text) return m.reply(`Mau Lapor Apa?\n\nContoh: ${command} Menu Error`)
-                hisoka.sendMessage(`6289636827082@s.whatsapp.net`, {
+                hisoka.sendMessage(`6281261632688@s.whatsapp.net`, {
                     text: `*Bug Report From:* wa.me/${m.sender.split("@")[0]}
 Report Message: ${text}`
                 })
@@ -5000,7 +5000,7 @@ Report Message: ${text}`
             case 'req':
             case 'request': {
                 if (!text) return m.reply(`Mau Request Apa?\n\nContoh: ${command} Tambahin Menu Nsfw dong`)
-                hisoka.sendMessage(`6289636827082@s.whatsapp.net`, {
+                hisoka.sendMessage(`6281261632688@s.whatsapp.net`, {
                     text: `*Request Feature From:* wa.me/${m.sender.split("@")[0]}
 Request Message: ${text}`
                 })
@@ -8230,7 +8230,7 @@ Request Message: ${text}`
         	let buttons = [
                     { buttonId: `owner`, buttonText: { displayText: 'Chat Owner' }, type: 1 }
                 ]
-			hisoka.sendMessage(m.chat, { text:`INVITE DETECT\n\nMau masukin bot ini ke group kamu?`, title: 'LINK GROUP DECTETED', footer: '© 2022 GuaAbuzz', buttons: buttons, headerType: 5 })
+			hisoka.sendMessage(m.chat, { text:`INVITE DETECT\n\nMau masukin bot ini ke group kamu?`, title: 'LINK GROUP DECTETED', footer: '© 2022 GuaUwii', buttons: buttons, headerType: 5 })
 		}
                 if (budy.startsWith('=>')) {
                     if (!isCreator) return m.reply(mess.owner)
