@@ -25,12 +25,12 @@ global.APIKeys = {
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
 global.namabot = 'Akame'
-global.namaowner = 'GuaAbuzz'
+global.namaowner = 'GuaKsl'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6281261632688']
-global.premium = ['6289636827082']
+global.owner = ['6281267545050']
+global.premium = ['6281267545050']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
@@ -51,7 +51,7 @@ global.myweb = 'https://tiktok.com/@uwipunyasiehem'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
-global.packname = 'GuaUwii'
+global.packname = 'GuaKall'
 global.author = 'WhatsApp Bot'
 
 //—————「 Set Nama Session 」—————//
